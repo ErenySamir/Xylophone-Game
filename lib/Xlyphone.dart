@@ -35,6 +35,7 @@ class Xlyphone extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
    return Column(
+
      crossAxisAlignment: CrossAxisAlignment.stretch,
      children: [
        //لو شلت context هيرحع يطلع صوت
